@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Android_TV-0.25.0-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android TV 0.25.0">
   <img src="https://img.shields.io/badge/Windows-独立版待发布-8A8F98?style=flat-square" alt="Windows">
   <img src="https://img.shields.io/badge/Server-Jellyfin%20%7C%20Emby%20%7C%20Plex%20%7C%20fnOS%20%7C%20Navidrome-AA5CC3?style=flat-square" alt="Server">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License">
 </p>
 
 ---
@@ -82,14 +81,8 @@ Join the **Entryway Buddys** WeChat group for feedback, tips and release news.
 
 客户端请求本仓库的 Release 列表，按本平台 Tag 前缀与安装包文件名筛选，优先使用 Gitea，失败时降级到 GitHub。
 
-## 源码仓库 | Source Code
+## 许可 | License
 
-- **GitHub**：[github.com/YuSheng-Jack/Entryway](https://github.com/YuSheng-Jack/Entryway)
-- **Gitea**：[gitea.yamby.cn/yusheng/Entryway](https://gitea.yamby.cn/yusheng/Entryway)
+Entryway 可免费下载使用，但不开源，源代码不公开。
 
-## 许可证 | License
-
-本项目基于 MIT 许可证开源。
-
-手机端弹幕实现参考了 MIT 许可的 [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload)。
-Windows 客户端基于 NipaPlay-Reload `v1.10.13` 构建，保留上游 MIT 许可。
+Entryway is free to use, but it is not open source.
