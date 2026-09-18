@@ -38,6 +38,18 @@
 - 手机版 Preview 是非调试的持续发布构建（R8 + Baseline Profile），沿用 1.0 前公开包的调试证书，现有用户可直接覆盖安装。
 - 每个版本的更新内容见对应 Release 说明：[Gitea Releases](https://gitea.yamby.cn/yusheng/Entryway_Release/releases) ｜ [GitHub Releases](https://github.com/YuSheng-Jack/Entryway_Release/releases)。`RELEASE_NOTES.md` 仅保留 v0.24.0 及更早的合并发布记录。
 
+## 交流群 | Community
+
+欢迎加入微信用户群 **Entryway Buddys**：反馈问题、交流服务器与播放设置，新版本和 1.0 正式版的消息也会第一时间在群里发布。
+
+Join the **Entryway Buddys** WeChat group for feedback, tips and release news.
+
+<p align="center">
+  <img src="community-wechat.png" alt="微信群 Entryway Buddys 入群二维码" width="260">
+</p>
+
+> 微信群二维码每 7 天更新一次。如果扫码提示已过期，请到官网 [entryway.top](https://entryway.top/#community) 获取最新的二维码。
+
 ## 这一版能做什么 | What's New
 
 ### 手机版 0.88 – 0.90：界面与交互全面改版
