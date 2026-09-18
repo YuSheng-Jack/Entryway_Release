@@ -3,101 +3,76 @@
 </p>
 
 <p align="center"><strong>Entryway</strong></p>
-<p align="center">多服务器聚合管理的跨平台媒体客户端，支持 Jellyfin 和 Emby。</p>
-<p align="center">A multi-server aggregation media client for Jellyfin & Emby — Android, Android TV & Windows.</p>
-<p align="center"><a href="https://www.yamby.cn">官方网站 | Official Website</a></p>
+<p align="center">一扇门，通往你的全部影音。聚合 Jellyfin、Emby、Plex、fnOS、Navidrome 与本地 / SMB / WebDAV 媒体源的跨平台客户端。</p>
+<p align="center">One entryway to all your media — a cross-platform client for Jellyfin, Emby, Plex, fnOS, Navidrome, local folders, SMB and WebDAV.</p>
+<p align="center"><a href="https://entryway.top"><strong>官方网站 entryway.top</strong></a> ｜ <a href="https://entryway.top">Official Website</a></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20Android_TV%20%7C%20Windows-3DDC84?style=flat-square" alt="Platform">
-  <img src="https://img.shields.io/badge/Server-Jellyfin%20%7C%20Emby-AA0000?style=flat-square" alt="Server">
+  <img src="https://img.shields.io/badge/Android-0.90.0_Preview-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 0.90.0">
+  <img src="https://img.shields.io/badge/Android_TV-0.25.0-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android TV 0.25.0">
+  <img src="https://img.shields.io/badge/Windows-独立版待发布-8A8F98?style=flat-square" alt="Windows">
+  <img src="https://img.shields.io/badge/Server-Jellyfin%20%7C%20Emby%20%7C%20Plex%20%7C%20fnOS%20%7C%20Navidrome-AA5CC3?style=flat-square" alt="Server">
   <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License">
 </p>
 
 ---
 
-## 最新版本 | Latest Release
+本仓库是 Entryway 的公开发布仓库：安装包以 Release 附件形式提供，客户端的更新检测也从这里读取版本。手机、TV、Windows 三端**独立发版**，各自使用 `android-phone-v*`、`android-tv-v*`、`windows-v*` 前缀的 Tag。
 
-**全局标签 `v0.24.0`**（各端应用版本独立；手机版为 Preview，TV 与 Windows 为 Debug）
+## 最新版本 | Latest Releases
 
-| 平台 | 应用版本 | 构建号 | 下载 |
-| --- | --- | --- | --- |
-| Android 手机版 | 0.24.0 | 45 | [`entryway-preview-0.24.0.apk`](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/v0.24.0/entryway-preview-0.24.0.apk) |
-| Android TV 版 | 0.18.1 | 39 | [`Entryway-tv-debug-0.18.1.apk`](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/v0.24.0/Entryway-tv-debug-0.18.1.apk) |
-| Windows x64 | 0.18.0 | 37 | [`Entryway_0.18.0+37_Windows_x64_Setup.exe`](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/v0.24.0/Entryway_0.18.0+37_Windows_x64_Setup.exe) |
+| 平台 | 版本 | 构建号 | 渠道 | 系统要求 | 下载（Gitea） | 镜像（GitHub） |
+| --- | --- | ---: | --- | --- | --- | --- |
+| Android 手机 | **0.90.0** | 56 | Preview | Android 8.1+ | [entryway-preview-0.90.0.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-phone-v0.90.0/entryway-preview-0.90.0.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-phone-v0.90.0/entryway-preview-0.90.0.apk) |
+| Android TV | **0.25.0** | 42 | Release | Android 7.1+ | [Entryway-tv-release-0.25.0.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-tv-v0.25.0/Entryway-tv-release-0.25.0.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-tv-v0.25.0/Entryway-tv-release-0.25.0.apk) |
+| Windows x64 | 0.18.0+37 | 37 | — | Windows 10/11 | 独立版待发布 | — |
 
-> Android 手机版从 0.24.0 起使用 Preview 持续发布构建：启用 R8、AOT 与 Baseline Profile，但仍沿用 1.0 前公开包的调试证书，可直接覆盖安装；TV 继续使用 Debug 构建，Windows 安装包未签名。Preview/Debug 均不是正式 Release 构建。
->
-> ⚠️ v0.19.0 的手机安装包误用了正式发布证书，无法覆盖安装。0.18.x 及更早版本可直接覆盖安装 0.20.0；若已安装 v0.19.0，需先卸载再安装。
->
-> Windows 端正在重构，预计 **2026 年 8 月 17 日**正式发布新版。
+| 安装包 | 大小 | SHA-256 |
+| --- | ---: | --- |
+| `entryway-preview-0.90.0.apk` | 170,091,554 B | `63dfc5027fd722b9e931b11678b7bb84b72237f64d6f2cad4653a67a6e945b7e` |
+| `Entryway-tv-release-0.25.0.apk` | 202,557,288 B | `cabfb74233ec14d82603f97606a32dd07998616c3700d50ab39467d48de19150` |
 
-- **变更日志**：[`RELEASE_NOTES.md`](RELEASE_NOTES.md)
-- **全部版本**：[Gitea Releases](https://gitea.yamby.cn/yusheng/Entryway_Release/releases) ｜ [GitHub Releases](https://github.com/JackYucongjia/Entryway_Release/releases)
+> [!IMPORTANT]
+> **1.0 正式版即将发布**，将正式支持音乐与有声书服务器。1.0 与现有 Preview 版本**不兼容、无法直接覆盖升级**，请提前在「设置 › 备份与恢复」备份到本地文件或 WebDAV，安装 1.0 后即可恢复服务器、设置与书签。
 
-## 概述 | Overview
+- 手机版 Preview 是非调试的持续发布构建（R8 + Baseline Profile），沿用 1.0 前公开包的调试证书，现有用户可直接覆盖安装。
+- 每个版本的更新内容见对应 Release 说明：[Gitea Releases](https://gitea.yamby.cn/yusheng/Entryway_Release/releases) ｜ [GitHub Releases](https://github.com/YuSheng-Jack/Entryway_Release/releases)。`RELEASE_NOTES.md` 仅保留 v0.24.0 及更早的合并发布记录。
 
-**Entryway** 是一个面向自建媒体服务器用户的跨平台客户端，覆盖 **Android 手机**、**Android TV** 和 **Windows** 三端。核心设计理念是 **多服务器聚合**——在一个统一的界面中管理和浏览你所有的 Jellyfin / Emby 服务器。
+## 这一版能做什么 | What's New
 
-Entryway is a cross-platform client for self-hosted media server users, available on **Android Mobile**, **Android TV**, and **Windows**. Its core philosophy is **multi-server aggregation** — managing and browsing all your Jellyfin / Emby servers from a single, unified interface.
+### 手机版 0.88 – 0.90：界面与交互全面改版
 
-**官网**：[www.yamby.cn](https://www.yamby.cn)
+- **新导航**：底栏「影音 / 接续 / 资源 / 设置」加独立搜索按钮，滚动自动收起；Entryway 自绘线性图标。
+- **四种视觉效果**：毛玻璃、液态玻璃、薄雾、春山；跟随系统 / 浅色 / 深色主题与主题强调色。
+- **多服务器合一**：同一部影片在所有服务器上的版本合并展示，支持 4K / HDR / 1080p 筛选，播放中可切到另一台服务器的同一版本。
+- **推荐 · 接续 · 搜索**：组件化推荐页（TMDB / 豆瓣榜单、流媒体平台）；继续观看、收藏、追更跨服务器汇总；全服务器合并搜索。
+- **播放器**：ExoPlayer / mpv 双内核自动选择，跳过片头片尾、章节、画中画、Anime4K、播放器书签、杜比视界与 HDR 徽标。
+- **音乐（预览）**：Navidrome 专辑、艺人、歌单，迷你播放器与离线下载。
+- **个性化**：APP 图标三色自由组合（8 种背景 × 17 种隧道 × 17 种播放三角）；简体中文、繁體中文、English、日本語、한국어、Español。
+- **备份**：本地文件或 WebDAV，服务器、设置与书签一并备份。
 
-## 核心特性 | Features
+### 支持的媒体源
 
-### 🖥️ 多服务器管理
-- 添加多个 Jellyfin / Emby 服务器，一键快速切换
-- 服务器卡片显示用户头像、用户名、服务器地址
-- 私密服务器：标记后默认隐藏，需手动开启显示
-- 冷启动离线恢复：服务器不可用时不清除账号
-
-### 🎬 双引擎播放器（Android）
-- **ExoPlayer**：默认引擎，基于 Media3 + FFmpeg 扩展
-- **mpv**：高兼容性引擎，含 libdvdread/libdvdnav/libbluray
-- 自动容错切换，保留播放进度
-- 解码模式：SW / HW / HW+ / DV-SW
-
-### 💬 多弹幕服务
-- 弹弹Play 官方、LogVar 弹幕 API、其他弹弹Play 兼容服务
-- 按优先级有序故障回退，数据源严格隔离
-- 自动匹配、手动搜索、本地弹幕、LRU 缓存
-- 三端支持（手机 / TV / Windows）
-
-### 💿 实验性 DVD / Blu-ray ISO
-- 未加密原盘本地与远程播放
-- 不支持时自动回退服务器转码
-
-### 📺 Android TV
-- 遥控器全键盘搜索、二维码手机输入
-- 完整弹幕、扫码录入服务器、首页缓存兜底
-
-### 🪟 Windows
-- Flutter + MediaKit (libmpv) + Rust 弹幕引擎
-- 多服务器、收藏、详情、跨服搜索、离线下载
-- Chromecast/DLNA 投屏、Inno Setup 安装器
-
-### 🎨 设计与国际化
-- 空间化 / 玻璃态视觉语言，Material 3 动态配色
-- 完整中文（简体/繁体）和英文本地化
-
-### 📥 离线下载
-- 队列化管理，批量下载，存储空间预估
-- 无网络时自动切换离线内容模式
-
-## 平台要求 | Requirements
-
-| 平台 | 最低要求 |
+| 类型 | 服务 |
 | --- | --- |
-| Android 手机版 | Android 8.1 (API 27) |
-| Android TV 版 | Android 8.1 (API 27) |
-| Windows | Windows 10 x64 |
+| 视频服务器 | Jellyfin（含 Jellyfin 12）、Emby 及兼容服务端、Plex、fnOS |
+| 音乐服务器 | Navidrome（Subsonic 协议，预览） |
+| 文件源 | 本地文件夹、SMB、WebDAV |
+| 弹幕 | 弹弹Play 官方、LogVar 弹幕 API、其他弹弹Play 兼容服务 |
+
+### Android TV 0.25.0
+
+- 首页背景随焦点切换，分区顺序可调并立即生效，返回首页时焦点回到进入前的位置。
+- Dolby Vision Profile 5 自绘路径：硬件解码 + GPU 色彩重整形。
+- 遥控器全键盘搜索、手机扫码辅助输入、完整弹幕设置。
 
 ## 更新检测 | Update Check
 
-客户端内置更新检测，优先从 Gitea 获取最新版本，连接失败时自动降级到 GitHub。
+客户端请求本仓库的 Release 列表，按本平台 Tag 前缀与安装包文件名筛选，优先使用 Gitea，失败时降级到 GitHub。
 
 ## 源码仓库 | Source Code
 
-- **GitHub**：[github.com/JackYucongjia/Entryway](https://github.com/JackYucongjia/Entryway)
+- **GitHub**：[github.com/YuSheng-Jack/Entryway](https://github.com/YuSheng-Jack/Entryway)
 - **Gitea**：[gitea.yamby.cn/yusheng/Entryway](https://gitea.yamby.cn/yusheng/Entryway)
 
 ## 许可证 | License
