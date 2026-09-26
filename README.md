@@ -47,6 +47,8 @@ Join the **Entryway Buddys** WeChat group for feedback, tips and release news.
   <img src="community-wechat.png" alt="微信群 Entryway Buddys 入群二维码" width="260">
 </p>
 
+> 本二维码有效期至 2026 年 10 月 3 日，过期后请到官网获取最新二维码。
+
 > 微信群二维码每 7 天更新一次。如果扫码提示已过期，请到官网 [entryway.top](https://entryway.top/#community) 获取最新的二维码。
 
 ## 这一版能做什么 | What's New
