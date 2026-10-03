@@ -40,17 +40,15 @@
 
 ## 交流群 | Community
 
-欢迎加入微信用户群 **Entryway Buddys**：反馈问题、交流服务器与播放设置，新版本的消息也会第一时间在群里发布。
+欢迎加入 QQ 用户群 **Entryway Buddys**（群号 **1107768156**）：反馈问题、交流服务器与播放设置，新版本的消息也会第一时间在群里发布。
 
-Join the **Entryway Buddys** WeChat group for feedback, tips and release news.
+Join the **Entryway Buddys** QQ group (number **1107768156**) for feedback, tips and release news.
 
 <p align="center">
-  <img src="community-wechat.png" alt="微信群 Entryway Buddys 入群二维码" width="260">
+  <img src="community-qq.png" alt="QQ 群 Entryway Buddys 入群二维码" width="260">
 </p>
 
-> 本二维码有效期至 2026 年 10 月 9 日，过期后请到官网获取最新二维码。
-
-> 微信群二维码每 7 天更新一次。如果扫码提示已过期，请到官网 [entryway.top](https://entryway.top/#community) 获取最新的二维码。
+> 用 QQ「扫一扫」扫码，或在 QQ 里搜索群号加入。官网 [entryway.top](https://entryway.top/#community) 上也有同一张二维码。
 
 ## 支持的媒体源 | Sources
 
