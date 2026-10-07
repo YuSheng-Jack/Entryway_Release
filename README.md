@@ -8,8 +8,8 @@
 <p align="center"><a href="https://entryway.top"><strong>官方网站 entryway.top</strong></a> ｜ <a href="https://entryway.top">Official Website</a></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-1.0.7-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 1.0.7">
-  <img src="https://img.shields.io/badge/Android_TV-1.0.7-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android TV 1.0.7">
+  <img src="https://img.shields.io/badge/Android-1.0.8-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 1.0.8">
+  <img src="https://img.shields.io/badge/Android_TV-1.0.8-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android TV 1.0.8">
   <img src="https://img.shields.io/badge/Windows-开发中-8A8F98?style=flat-square" alt="Windows">
   <img src="https://img.shields.io/badge/Server-Emby%20%7C%20Jellyfin%20%7C%20Plex%20%7C%20fnOS%20%7C%20ZSpace-AA5CC3?style=flat-square" alt="Server">
 </p>
@@ -22,16 +22,16 @@
 
 | 平台 | 版本 | 构建号 | 系统要求 | 下载（Gitea） | 镜像（GitHub） |
 | --- | --- | ---: | --- | --- | --- |
-| Android 手机 | **1.0.7** | 64 | Android 8.1+ · arm64 | [entryway-release-1.0.7-arm64-v8a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-phone-v1.0.7/entryway-release-1.0.7-arm64-v8a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-phone-v1.0.7/entryway-release-1.0.7-arm64-v8a.apk) |
-| Android TV（64 位） | **1.0.7** | 49 | Android 7.1+ · arm64 | [Entryway-tv-release-1.0.7-arm64-v8a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-tv-v1.0.7/Entryway-tv-release-1.0.7-arm64-v8a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-tv-v1.0.7/Entryway-tv-release-1.0.7-arm64-v8a.apk) |
-| Android TV（32 位） | **1.0.7** | 49 | Android 7.1+ · armeabi-v7a | [Entryway-tv-release-1.0.7-armeabi-v7a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-tv-v1.0.7/Entryway-tv-release-1.0.7-armeabi-v7a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-tv-v1.0.7/Entryway-tv-release-1.0.7-armeabi-v7a.apk) |
+| Android 手机 | **1.0.8** | 66 | Android 8.1+ · arm64 | [entryway-release-1.0.8-arm64-v8a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-phone-v1.0.8/entryway-release-1.0.8-arm64-v8a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-phone-v1.0.8/entryway-release-1.0.8-arm64-v8a.apk) |
+| Android TV（64 位） | **1.0.8** | 50 | Android 7.1+ · arm64 | [Entryway-tv-release-1.0.8-arm64-v8a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-tv-v1.0.8/Entryway-tv-release-1.0.8-arm64-v8a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-tv-v1.0.8/Entryway-tv-release-1.0.8-arm64-v8a.apk) |
+| Android TV（32 位） | **1.0.8** | 50 | Android 7.1+ · armeabi-v7a | [Entryway-tv-release-1.0.8-armeabi-v7a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-tv-v1.0.8/Entryway-tv-release-1.0.8-armeabi-v7a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-tv-v1.0.8/Entryway-tv-release-1.0.8-armeabi-v7a.apk) |
 | Windows x64 | 开发中 | — | Windows 10/11 | 独立版待发布 | — |
 
 | 安装包 | 大小 | SHA-256 |
 | --- | ---: | --- |
-| `entryway-release-1.0.7-arm64-v8a.apk` | 56,497,085 B | `a36a8aa9634e07ccd85fd39f71fb72163abea37046dd37187440e136b75074ab` |
-| `Entryway-tv-release-1.0.7-arm64-v8a.apk` | 54,100,800 B | `9b65f59ce8b4e41e5d6e8df6ffa3dfdcbc53a14f3eddd16eb2d50da8d458e67e` |
-| `Entryway-tv-release-1.0.7-armeabi-v7a.apk` | 47,650,904 B | `ceaa04c69595906ee19686a0ca4b84ad661a6f04508b748638180c9e2303d511` |
+| `entryway-release-1.0.8-arm64-v8a.apk` | 56,703,625 B | `3e7ea08e7047dea4df76b261cd3a3b8e247e7ebc9ad7d64d4b36ecc08502de47` |
+| `Entryway-tv-release-1.0.8-arm64-v8a.apk` | 54,240,788 B | `acff710f9ffbf4d1358416dd0749c4ac218bc5ce44b2af4863ab750120bdda3a` |
+| `Entryway-tv-release-1.0.8-armeabi-v7a.apk` | 47,774,508 B | `b46529d89e1a4d4216d39f3d8d030940810ff55e50efe62df9554ff487535e94` |
 
 - 安装包均为 Release 构建，使用正式密钥签名（证书 SHA-256 `a027e7a59bb3931250385e1ba44bd049a9dca9a855101e3263d617b3919b7bcc`）。
 - **TV 该下哪个包**：大多数电视、投影仪、盒子用 64 位包；安装时提示「解析错误」「与设备不兼容」的老设备，改用 32 位包。应用内更新会按已装的包自动选择。
@@ -63,27 +63,27 @@ Join the **Entryway Buddys** QQ group (number **1107768156**) for feedback, tips
 
 ## 能做什么 | Highlights
 
-### 手机版 1.0.7
+### 手机版 1.0.8
 
 - **跨服务器聚合**：同一部影片在所有服务器上的版本合并展示，按 4K / Dolby Vision / HDR / 1080p 筛选，播放中可切到另一台服务器的同一部片；全服务器合并搜索。
 - **推荐 · 接续 · 追剧日历**：组件化推荐页与精选合集（TMDB / 豆瓣榜单），编辑页面时拖动卡片排序；继续观看、播放书签、收藏汇总所有服务器；追剧日历可选 Bangumi、TMDB、Trakt、TVmaze 作数据来源，观看记录可同步到 Trakt。
-- **网盘与本地影视库**：六种网盘扫码或手填登录，可浏览、播放、上传；把网盘或 NAS 文件夹加入影视库，读取 NFO 与海报生成海报墙，没有 NFO 的片子可到 TMDB 刮削；网盘与 NAS 上的 DVD / 蓝光 ISO 直接播放。
-- **播放器**：ExoPlayer / mpv 双内核，杜比视界与 HDR，跳过片头片尾、章节、画中画、Anime4K、播放书签；IPTV 直播即点即播，播放时可看节目单（1.0.7 新增）；竖屏短剧自动竖着全屏播放；音画同步与字幕延迟、链接失效自动续上、音轨字幕和弹幕按季记住；HDR 片源的 PGS 图形字幕按 HDR 绘制、亮度可调；性能较弱的手机和平板可打开「性能较弱设备优化」，杜比视界改走硬解 + GPU 色彩修正（1.0.7 新增）。
+- **网盘与本地影视库**：六种网盘扫码或手填登录，可浏览、播放、上传；把网盘或 NAS 文件夹加入影视库，读取 NFO 与海报生成海报墙，没有 NFO 的片子可到 TMDB 刮削；网盘与 NAS 上的 DVD / 蓝光 ISO 可从光盘菜单播放（1.0.8 新增），也可直接播放正片。
+- **播放器**：ExoPlayer / mpv 双内核，杜比视界与 HDR，跳过片头片尾、章节、画中画、Anime4K、播放书签；IPTV 直播即点即播，播放时可看节目单，频道表和节目单可自动更新（1.0.8 新增）；竖屏短剧自动竖着全屏播放；音画同步与字幕延迟、链接失效自动续上、音轨字幕和弹幕按季记住；HDR 片源的 PGS 图形字幕按 HDR 绘制、亮度可调；性能较弱的手机和平板可打开「性能较弱设备优化」，杜比视界改走硬解 + GPU 色彩修正；界面、字幕、弹幕可分别换成导入的字体，字幕样式两个内核一起调（1.0.8 新增）。
 - **AI 字幕**：用你自己的大模型服务翻译字幕，没有字幕时语音识别生成字幕。
 - **网络代理**：HTTP / HTTPS 或 SOCKS5，可只代理外网服务和勾选的服务器，局域网始终直连。
 - **STRM 直链播放**：开着时网盘 .strm 片源直接播放链接本身，由网盘 302 到直链，不经服务器转码。
-- **点播合集**：TVBox 配置「全部添加」后合成一张卡片，每个站点是一个媒体库，一次搜遍所有站点；资源页可批量删除服务器，一键选中连不上的。
+- **点播合集**：TVBox 配置「全部添加」后合成一张卡片，每个站点是一个媒体库，一次搜遍所有站点；资源页可批量删除服务器，一键选中连不上的；可隐藏服务器里的媒体库，轮播和搜索推荐也不再出现（1.0.8 新增）。
 - **音乐**：专辑、艺人、歌单，迷你播放器与离线下载。
 - **更多**：弹幕、下载、Google Cast 与 DLNA 投屏、本地 / WebDAV 备份恢复（可勾选内容）、关于页的更新日志与 QQ 交流群、四种视觉效果、16 款 APP 图标、六种界面语言。
 
-### Android TV 1.0.7
+### Android TV 1.0.8
 
 - 极影视风格的首页与详情页，毛玻璃设置抽屉；音乐服务器有单独的浏览与播放页面。
-- 网盘、CloudDrive2、本地影视库、IPTV 直播（带节目单面板，1.0.7 新增）与点播与手机版一致；U 盘、SMB、WebDAV 文件直接播放。
+- 网盘、CloudDrive2、本地影视库、IPTV 直播（带节目单面板，频道表可自动更新）与点播与手机版一致；DVD / 蓝光 ISO 可从光盘菜单播放（1.0.8 新增）；U 盘、SMB、WebDAV 文件直接播放。
 - 搜索支持首字母、全拼和英文，可用电视自带输入法与语音输入，也可以手机扫码输入片名。
-- 服务器按影视、音乐、文件源分组，可调整顺序、批量删除；TVBox 配置「全部添加」后合成一个点播合集；首次打开即可扫码从手机恢复备份。
+- 服务器按影视、音乐、文件源分组，可调整顺序、批量删除、隐藏服务器和媒体库（1.0.8 新增）；TVBox 配置「全部添加」后合成一个点播合集；首次打开即可扫码从手机恢复备份。
 - **儿童时长控制**：密码保护，每次打开先答题，答错只能看设定的时长，时间到暂停，仍答错就关闭应用。
-- **播放页**：遥控器单击 ← / → 跳设定的秒数、按住连续拖动，快进后自动接着播放，播放中可改快进快退秒数（1.0.7 新增）；左上角显示片名艺术字；按住 ↑ 键才切到下一集；字幕、音轨面板把轨道排在最上面；弹幕更平稳；不支持多声道的设备自动降混为立体声。
+- **播放页**：遥控器单击 ← / → 跳设定的秒数、按住连续拖动，快进后自动接着播放，播放中可改快进快退秒数；左上角显示片名艺术字；按住 ↑ 键才切到下一集；字幕、音轨面板把轨道排在最上面；弹幕更平稳；不支持多声道的设备自动降混为立体声。
 - **播放**：音画同步与字幕延迟、帧率匹配、确认键长按 3 倍速、链接失效自动续上、放不出来时的诊断面板；音轨字幕和弹幕按季记住，多版本按偏好选择，认片头片尾章节。
 - **服务器多线路与测速、Trakt、DLNA 投屏接收、网络代理、STRM 直链播放**；桌面图标改为 16:9 横幅。
 - Dolby Vision Profile 5 自绘路径（硬件解码 + GPU 色彩重整形）；提供 64 位与 32 位安装包。
@@ -95,6 +95,10 @@ Join the **Entryway Buddys** QQ group (number **1107768156**) for feedback, tips
 ## 更新检测 | Update Check
 
 客户端请求本仓库的 Release 列表，按本平台 Tag 前缀与安装包文件名筛选（TV 再按已装的 64 位 / 32 位包选择），优先使用 Gitea，失败时降级到 GitHub。
+
+## 致谢 | Thanks
+
+感谢“2L”测试组小伙伴在 ISO 302 播放能力调试优化过程中提供的多轮测试反馈。
 
 ## 使用说明 | Terms
 
