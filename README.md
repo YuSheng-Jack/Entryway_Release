@@ -96,10 +96,6 @@ Join the **Entryway Buddys** QQ group (number **1107768156**) for feedback, tips
 
 客户端请求本仓库的 Release 列表，按本平台 Tag 前缀与安装包文件名筛选（TV 再按已装的 64 位 / 32 位包选择），优先使用 Gitea，失败时降级到 GitHub。
 
-## 致谢 | Thanks
-
-感谢“2L”测试组小伙伴在 ISO 302 播放能力调试优化过程中提供的多轮测试反馈。
-
 ## 使用说明 | Terms
 
 Entryway 免费下载使用，版权归 Entryway 所有。
