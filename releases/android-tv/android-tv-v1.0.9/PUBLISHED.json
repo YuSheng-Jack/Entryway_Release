@@ -1,0 +1,18 @@
+{
+  "release_tag": "android-tv-v1.0.9",
+  "published_at": "2026-10-09T12:25:39+08:00",
+  "github": "https://github.com/YuSheng-Jack/Entryway_Release/releases/tag/android-tv-v1.0.9",
+  "gitea": "https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-tv-v1.0.9",
+  "artifacts": [
+    {
+      "artifact": "Entryway-tv-release-1.0.9-arm64-v8a.apk",
+      "size": 54915538,
+      "sha256": "db14b067faa83f90aec1d57a16c98cc622b989a4db8b2e697efbf15a7873bed1"
+    },
+    {
+      "artifact": "Entryway-tv-release-1.0.9-armeabi-v7a.apk",
+      "size": 48449241,
+      "sha256": "d989490fe8410732f94d4026cb9e9ee8e4e1719ef48a8cc7b6bdeaf73d13a350"
+    }
+  ]
+}

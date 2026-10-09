@@ -1,0 +1,13 @@
+{
+  "release_tag": "android-phone-v1.0.9",
+  "published_at": "2026-10-09T12:25:39+08:00",
+  "github": "https://github.com/YuSheng-Jack/Entryway_Release/releases/tag/android-phone-v1.0.9",
+  "gitea": "https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-phone-v1.0.9",
+  "artifacts": [
+    {
+      "artifact": "entryway-release-1.0.9-arm64-v8a.apk",
+      "size": 56875069,
+      "sha256": "03bd6d191bfa6a6bf2f7419ed18715fe6c2eb75caf2e8c9156f5d1d18a6ccfd3"
+    }
+  ]
+}
