@@ -1,0 +1,15 @@
+{
+  "schema_version": 2,
+  "platform": "android-tv",
+  "release_tag": "android-tv-v1.0.9",
+  "app_version": "1.0.9",
+  "build_number": 51,
+  "channel": "release",
+  "abi": [
+    "arm64-v8a",
+    "armeabi-v7a"
+  ],
+  "source_repository": "YuSheng-Jack/Entryway",
+  "source_commit": "2ab13b6a56c84d67d94f3cb30194936764c627d8",
+  "source_branch": "tv/ui-refactor-m1-m4"
+}
