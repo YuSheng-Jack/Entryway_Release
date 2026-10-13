@@ -8,8 +8,8 @@
 <p align="center"><a href="https://entryway.top"><strong>官方网站 entryway.top</strong></a> ｜ <a href="https://entryway.top">Official Website</a></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-1.0.9-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 1.0.9">
-  <img src="https://img.shields.io/badge/Android_TV-1.0.9-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android TV 1.0.9">
+  <img src="https://img.shields.io/badge/Android-1.0.10-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 1.0.10">
+  <img src="https://img.shields.io/badge/Android_TV-1.0.10-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android TV 1.0.10">
   <img src="https://img.shields.io/badge/Windows-开发中-8A8F98?style=flat-square" alt="Windows">
   <img src="https://img.shields.io/badge/Server-Emby%20%7C%20Jellyfin%20%7C%20Plex%20%7C%20fnOS%20%7C%20ZSpace-AA5CC3?style=flat-square" alt="Server">
 </p>
@@ -22,23 +22,23 @@
 
 | 平台 | 版本 | 构建号 | 系统要求 | 下载（Gitea） | 镜像（GitHub） |
 | --- | --- | ---: | --- | --- | --- |
-| Android 手机 | **1.0.9** | 67 | Android 8.1+ · arm64 | [entryway-release-1.0.9-arm64-v8a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-phone-v1.0.9/entryway-release-1.0.9-arm64-v8a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-phone-v1.0.9/entryway-release-1.0.9-arm64-v8a.apk) |
-| Android TV（64 位） | **1.0.9** | 51 | Android 6.0+ · arm64 | [Entryway-tv-release-1.0.9-arm64-v8a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-tv-v1.0.9/Entryway-tv-release-1.0.9-arm64-v8a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-tv-v1.0.9/Entryway-tv-release-1.0.9-arm64-v8a.apk) |
-| Android TV（32 位） | **1.0.9** | 51 | Android 6.0+ · armeabi-v7a | [Entryway-tv-release-1.0.9-armeabi-v7a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-tv-v1.0.9/Entryway-tv-release-1.0.9-armeabi-v7a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-tv-v1.0.9/Entryway-tv-release-1.0.9-armeabi-v7a.apk) |
+| Android 手机 | **1.0.10** | 70 | Android 8.1+ · arm64 | [entryway-release-1.0.10-arm64-v8a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-phone-v1.0.10/entryway-release-1.0.10-arm64-v8a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-phone-v1.0.10/entryway-release-1.0.10-arm64-v8a.apk) |
+| Android TV（64 位） | **1.0.10** | 54 | Android 6.0+ · arm64 | [Entryway-tv-release-1.0.10-arm64-v8a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-tv-v1.0.10/Entryway-tv-release-1.0.10-arm64-v8a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-tv-v1.0.10/Entryway-tv-release-1.0.10-arm64-v8a.apk) |
+| Android TV（32 位） | **1.0.10** | 54 | Android 6.0+ · armeabi-v7a | [Entryway-tv-release-1.0.10-armeabi-v7a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-tv-v1.0.10/Entryway-tv-release-1.0.10-armeabi-v7a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-tv-v1.0.10/Entryway-tv-release-1.0.10-armeabi-v7a.apk) |
 | Windows x64 | 开发中 | — | Windows 10/11 | 独立版待发布 | — |
 
 | 安装包 | 大小 | SHA-256 |
 | --- | ---: | --- |
-| `entryway-release-1.0.9-arm64-v8a.apk` | 56,875,069 B | `03bd6d191bfa6a6bf2f7419ed18715fe6c2eb75caf2e8c9156f5d1d18a6ccfd3` |
-| `Entryway-tv-release-1.0.9-arm64-v8a.apk` | 54,915,538 B | `db14b067faa83f90aec1d57a16c98cc622b989a4db8b2e697efbf15a7873bed1` |
-| `Entryway-tv-release-1.0.9-armeabi-v7a.apk` | 48,449,241 B | `d989490fe8410732f94d4026cb9e9ee8e4e1719ef48a8cc7b6bdeaf73d13a350` |
+| `entryway-release-1.0.10-arm64-v8a.apk` | 58,247,106 B | `7e6ced2600383904dd79868dd73f114abf9ffc33910230dc69cb2197e75beef6` |
+| `Entryway-tv-release-1.0.10-arm64-v8a.apk` | 55,215,923 B | `4cb57bacbcca4fc990858b1b6834029419d2bfad277c47f7170b6138b4e0b522` |
+| `Entryway-tv-release-1.0.10-armeabi-v7a.apk` | 48,749,629 B | `56c01e553e724cffb5541fdeee3591d3a0b70dda133e59c6f8d9375e2d394ef3` |
 
 - 安装包均为 Release 构建，使用正式密钥签名（证书 SHA-256 `a027e7a59bb3931250385e1ba44bd049a9dca9a855101e3263d617b3919b7bcc`）。
 - **TV 该下哪个包**：大多数电视、投影仪、盒子用 64 位包；安装时提示「解析错误」「与设备不兼容」的老设备，改用 32 位包。应用内更新会按已装的包自动选择。
 - **从 1.0 之前的 Preview 版升级**：签名不同，不能直接覆盖。请先在「设置 › 备份与恢复」备份到本地文件或 WebDAV，卸载旧版、安装新版后再恢复。已装 1.0.1 及以后版本的，在应用内检查更新即可。
 - 每个版本的更新内容见对应 Release 说明：[Gitea Releases](https://gitea.yamby.cn/yusheng/Entryway_Release/releases) ｜ [GitHub Releases](https://github.com/YuSheng-Jack/Entryway_Release/releases)。`RELEASE_NOTES.md` 仅保留 v0.24.0 及更早的合并发布记录。
 
-1.0.9：TV 首页大图轮播、海报行自适应、多服务器“我的”、全应用屏保、扫码回填与单集遥控焦点；手机改善播放 / 画中画状态、媒体库返回位置，补齐代理诊断与发送配置到电视。完整内容见[手机更新说明](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-phone-v1.0.9)与 [TV 更新说明](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-tv-v1.0.9)。
+1.0.10：新增 Mine 影音与音乐账本、年度报告与票根；完善 FN Connect 动态连接、服务器编辑与跨端配置；手机版加入自定义组件与合集封面，TV 改善字号、Hero、网格、媒体库排序和壁纸。两端新增动态开屏和片尾式致谢。完整内容见[手机更新说明](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-phone-v1.0.10)与 [TV 更新说明](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-tv-v1.0.10)。
 
 ## 交流群 | Community
 
@@ -65,7 +65,12 @@ Join the **Entryway Buddys** QQ group (number **1107768156**) for feedback, tips
 
 ## 能做什么 | Highlights
 
-### 手机版 1.0.9
+### 手机版 1.0.10
+
+- **Mine 与音乐账本**：实际观看/收听时长、热力图、历史筛选、年度报告、影音与黑胶票根；音乐按实际播放输出计时。
+- **FN Connect**：保存 FN ID 原入口，动态解析 NAS 地址并校验身份，支持影视与音乐；完善编辑和备份恢复。
+- **自定义组件与合集**：支持授权的 Streama 组件导入、参数设置与内容解析，合集海报可自动拼贴。
+- **致谢**：动态 Logo 开屏、随机致谢与关于页片尾式滚动名单。
 
 - **跨服务器聚合**：同一部影片在所有服务器上的版本合并展示，按 4K / Dolby Vision / HDR / 1080p 筛选，播放中可切到另一台服务器的同一部片；全服务器合并搜索。
 - **推荐 · 接续 · 追剧日历**：组件化推荐页与精选合集（TMDB / 豆瓣榜单），编辑页面时拖动卡片排序；继续观看、播放书签、收藏汇总所有服务器；追剧日历可选 Bangumi、TMDB、Trakt、TVmaze 作数据来源，观看记录可同步到 Trakt。
@@ -78,7 +83,12 @@ Join the **Entryway Buddys** QQ group (number **1107768156**) for feedback, tips
 - **音乐**：专辑、艺人、歌单，迷你播放器与离线下载。
 - **更多**：弹幕、下载、Google Cast 与 DLNA 投屏、本地 / WebDAV 备份恢复（可勾选内容）、关于页的更新日志与 QQ 交流群、四种视觉效果、16 款 APP 图标、六种界面语言。
 
-### Android TV 1.0.9
+### Android TV 1.0.10
+
+- **可信账本与票根**：接入观看/音乐记录、年度统计与票根，音乐使用现有 Exo 服务计时。
+- **浏览与个性化**：内容字号 100%–300%，更大 Hero，媒体库网格 8–12 列；分别管理导航和首页媒体库显隐/排序，支持 Hero、上传图片或影片壁纸。
+- **配置与连接**：FN Connect 动态连接，手机导入媒体服务器并展示具体失败原因，TV 配置中心管理媒体服务器和弹幕接口。
+- **致谢与字幕**：动态开屏与片尾式致谢，接入共享 AI 字幕翻译/识别会话。
 
 - 首页自动轮播大图，收藏与媒体库行展示 10–15 张自适应海报，最近播放展示 8–15 张；详情页从续播按钮向下进入单集，左右选择其他集。
 - 多服务器“我的”汇总继续观看与收藏；搜索逐台显示结果并保留搜索范围，全应用屏保显示时钟；扫码编辑带入电视上的当前草稿。
