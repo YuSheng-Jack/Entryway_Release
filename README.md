@@ -40,7 +40,7 @@
 
 手机版 1.0.12：修复 1.0.11 反复访问 Android Keystore 导致的卡顿，减少重复 TLS 校验和徽标计算；保持磁盘凭据加密，建议覆盖升级。TV 保持 1.0.10。
 
-手机版 1.0.11：修复 mpv 续播点与账本内核标记、音乐倍速计时；增强一键诊断、账号/备份保护、Trakt 与播放体验。TV 保持 1.0.10，真实 NAS 与特定片源兼容性仍待验证。Entryway 永久免费。
+手机版 1.0.11（已撤下公开下载，请使用 1.0.12）：修复 mpv 续播点与账本内核标记、音乐倍速计时；增强一键诊断、账号/备份保护、Trakt 与播放体验。TV 保持 1.0.10，真实 NAS 与特定片源兼容性仍待验证。Entryway 永久免费。
 
 1.0.10：新增 Mine 影音与音乐账本、年度报告与票根；完善 FN Connect 动态连接、服务器编辑与跨端配置；手机版加入自定义组件与合集封面，TV 改善字号、Hero、网格、媒体库排序和壁纸。两端新增动态开屏和片尾式致谢。完整内容见[手机更新说明](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-phone-v1.0.10)与 [TV 更新说明](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-tv-v1.0.10)。
 

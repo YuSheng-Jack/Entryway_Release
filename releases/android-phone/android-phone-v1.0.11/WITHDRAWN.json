@@ -1,0 +1,12 @@
+{
+  "release_tag": "android-phone-v1.0.11",
+  "withdrawn_at": "2026-10-17T09:02:44.727043+00:00",
+  "reason": "Repeated Android Keystore IPC caused UI performance regression",
+  "replacement": "android-phone-v1.0.12",
+  "public_release_draft": true,
+  "historical_artifact_preserved": true,
+  "original_sha256": "0e9c8dfdbf3afd22e171317340745390b793a2615d29935aea9a786ffd218efe",
+  "replacement_sha256": "928724e2050dd3c95ddffae8d1686c096b3b02abc4e02a9a223f9af518066f2a",
+  "github": "https://github.com/YuSheng-Jack/Entryway_Release/releases/tag/android-phone-v1.0.12",
+  "gitea": "https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-phone-v1.0.12"
+}
