@@ -1,0 +1,14 @@
+{
+  "schema_version": 2,
+  "platform": "android-phone",
+  "release_tag": "android-phone-v1.0.11",
+  "app_version": "1.0.11",
+  "build_number": 71,
+  "channel": "release",
+  "abi": "arm64-v8a",
+  "source_commit": "21ebf4cdd2793df65bf3ef9b7fb303b5352ac159",
+  "built_at": "2026-10-17T05:02:17.052691+00:00",
+  "artifact": "entryway-release-1.0.11-arm64-v8a.apk",
+  "size": 59303528,
+  "sha256": "0e9c8dfdbf3afd22e171317340745390b793a2615d29935aea9a786ffd218efe"
+}

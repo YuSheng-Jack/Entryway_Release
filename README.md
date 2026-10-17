@@ -8,7 +8,7 @@
 <p align="center"><a href="https://entryway.top"><strong>官方网站 entryway.top</strong></a> ｜ <a href="https://entryway.top">Official Website</a></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-1.0.10-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 1.0.10">
+  <img src="https://img.shields.io/badge/Android-1.0.11-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 1.0.11">
   <img src="https://img.shields.io/badge/Android_TV-1.0.10-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android TV 1.0.10">
   <img src="https://img.shields.io/badge/Windows-开发中-8A8F98?style=flat-square" alt="Windows">
   <img src="https://img.shields.io/badge/Server-Emby%20%7C%20Jellyfin%20%7C%20Plex%20%7C%20fnOS%20%7C%20ZSpace-AA5CC3?style=flat-square" alt="Server">
@@ -22,14 +22,14 @@
 
 | 平台 | 版本 | 构建号 | 系统要求 | 下载（Gitea） | 镜像（GitHub） |
 | --- | --- | ---: | --- | --- | --- |
-| Android 手机 | **1.0.10** | 70 | Android 8.1+ · arm64 | [entryway-release-1.0.10-arm64-v8a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-phone-v1.0.10/entryway-release-1.0.10-arm64-v8a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-phone-v1.0.10/entryway-release-1.0.10-arm64-v8a.apk) |
+| Android 手机 | **1.0.11** | 71 | Android 8.1+ · arm64 | [entryway-release-1.0.11-arm64-v8a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-phone-v1.0.11/entryway-release-1.0.11-arm64-v8a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-phone-v1.0.11/entryway-release-1.0.11-arm64-v8a.apk) |
 | Android TV（64 位） | **1.0.10** | 54 | Android 6.0+ · arm64 | [Entryway-tv-release-1.0.10-arm64-v8a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-tv-v1.0.10/Entryway-tv-release-1.0.10-arm64-v8a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-tv-v1.0.10/Entryway-tv-release-1.0.10-arm64-v8a.apk) |
 | Android TV（32 位） | **1.0.10** | 54 | Android 6.0+ · armeabi-v7a | [Entryway-tv-release-1.0.10-armeabi-v7a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-tv-v1.0.10/Entryway-tv-release-1.0.10-armeabi-v7a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-tv-v1.0.10/Entryway-tv-release-1.0.10-armeabi-v7a.apk) |
 | Windows x64 | 开发中 | — | Windows 10/11 | 独立版待发布 | — |
 
 | 安装包 | 大小 | SHA-256 |
 | --- | ---: | --- |
-| `entryway-release-1.0.10-arm64-v8a.apk` | 58,247,106 B | `7e6ced2600383904dd79868dd73f114abf9ffc33910230dc69cb2197e75beef6` |
+| `entryway-release-1.0.11-arm64-v8a.apk` | 59,303,528 B | `0e9c8dfdbf3afd22e171317340745390b793a2615d29935aea9a786ffd218efe` |
 | `Entryway-tv-release-1.0.10-arm64-v8a.apk` | 55,215,923 B | `4cb57bacbcca4fc990858b1b6834029419d2bfad277c47f7170b6138b4e0b522` |
 | `Entryway-tv-release-1.0.10-armeabi-v7a.apk` | 48,749,629 B | `56c01e553e724cffb5541fdeee3591d3a0b70dda133e59c6f8d9375e2d394ef3` |
 
@@ -37,6 +37,8 @@
 - **TV 该下哪个包**：大多数电视、投影仪、盒子用 64 位包；安装时提示「解析错误」「与设备不兼容」的老设备，改用 32 位包。应用内更新会按已装的包自动选择。
 - **从 1.0 之前的 Preview 版升级**：签名不同，不能直接覆盖。请先在「设置 › 备份与恢复」备份到本地文件或 WebDAV，卸载旧版、安装新版后再恢复。已装 1.0.1 及以后版本的，在应用内检查更新即可。
 - 每个版本的更新内容见对应 Release 说明：[Gitea Releases](https://gitea.yamby.cn/yusheng/Entryway_Release/releases) ｜ [GitHub Releases](https://github.com/YuSheng-Jack/Entryway_Release/releases)。`RELEASE_NOTES.md` 仅保留 v0.24.0 及更早的合并发布记录。
+
+手机版 1.0.11：修复 mpv 续播点与账本内核标记、音乐倍速计时；增强一键诊断、账号/备份保护、Trakt 与播放体验。TV 保持 1.0.10，真实 NAS 与特定片源兼容性仍待验证。Entryway 永久免费。
 
 1.0.10：新增 Mine 影音与音乐账本、年度报告与票根；完善 FN Connect 动态连接、服务器编辑与跨端配置；手机版加入自定义组件与合集封面，TV 改善字号、Hero、网格、媒体库排序和壁纸。两端新增动态开屏和片尾式致谢。完整内容见[手机更新说明](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-phone-v1.0.10)与 [TV 更新说明](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-tv-v1.0.10)。
 
