@@ -23,15 +23,15 @@
 | 平台 | 版本 | 构建号 | 系统要求 | 下载（Gitea） | 镜像（GitHub） |
 | --- | --- | ---: | --- | --- | --- |
 | Android 手机 | **1.0.12** | 72 | Android 8.1+ · arm64 | [entryway-release-1.0.12-arm64-v8a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-phone-v1.0.12/entryway-release-1.0.12-arm64-v8a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-phone-v1.0.12/entryway-release-1.0.12-arm64-v8a.apk) |
-| Android TV（64 位） | **1.0.10** | 54 | Android 6.0+ · arm64 | [Entryway-tv-release-1.0.10-arm64-v8a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-tv-v1.0.10/Entryway-tv-release-1.0.10-arm64-v8a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-tv-v1.0.10/Entryway-tv-release-1.0.10-arm64-v8a.apk) |
-| Android TV（32 位） | **1.0.10** | 54 | Android 6.0+ · armeabi-v7a | [Entryway-tv-release-1.0.10-armeabi-v7a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-tv-v1.0.10/Entryway-tv-release-1.0.10-armeabi-v7a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-tv-v1.0.10/Entryway-tv-release-1.0.10-armeabi-v7a.apk) |
+| Android TV（64 位） | **1.0.11** | 55 | Android 6.0+ · arm64 | [Entryway-tv-release-1.0.11-arm64-v8a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-tv-v1.0.11/Entryway-tv-release-1.0.11-arm64-v8a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-tv-v1.0.11/Entryway-tv-release-1.0.11-arm64-v8a.apk) |
+| Android TV（32 位） | **1.0.11** | 55 | Android 6.0+ · armeabi-v7a | [Entryway-tv-release-1.0.11-armeabi-v7a.apk](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/download/android-tv-v1.0.11/Entryway-tv-release-1.0.11-armeabi-v7a.apk) | [下载](https://github.com/YuSheng-Jack/Entryway_Release/releases/download/android-tv-v1.0.11/Entryway-tv-release-1.0.11-armeabi-v7a.apk) |
 | Windows x64 | 开发中 | — | Windows 10/11 | 独立版待发布 | — |
 
 | 安装包 | 大小 | SHA-256 |
 | --- | ---: | --- |
 | `entryway-release-1.0.12-arm64-v8a.apk` | 59,303,524 B | `928724e2050dd3c95ddffae8d1686c096b3b02abc4e02a9a223f9af518066f2a` |
-| `Entryway-tv-release-1.0.10-arm64-v8a.apk` | 55,215,923 B | `4cb57bacbcca4fc990858b1b6834029419d2bfad277c47f7170b6138b4e0b522` |
-| `Entryway-tv-release-1.0.10-armeabi-v7a.apk` | 48,749,629 B | `56c01e553e724cffb5541fdeee3591d3a0b70dda133e59c6f8d9375e2d394ef3` |
+| `Entryway-tv-release-1.0.11-arm64-v8a.apk` | 56,238,021 B | `a024a18608110d47ad3b0b97de39931801d8dac40d5acdaa589f822f84074d76` |
+| `Entryway-tv-release-1.0.11-armeabi-v7a.apk` | 49,771,725 B | `3b75ff69eb9615a43d052502e013090a75ce40f1dee770c9bf41d64419fb04eb` |
 
 - 安装包均为 Release 构建，使用正式密钥签名（证书 SHA-256 `a027e7a59bb3931250385e1ba44bd049a9dca9a855101e3263d617b3919b7bcc`）。
 - **TV 该下哪个包**：大多数电视、投影仪、盒子用 64 位包；安装时提示「解析错误」「与设备不兼容」的老设备，改用 32 位包。应用内更新会按已装的包自动选择。
