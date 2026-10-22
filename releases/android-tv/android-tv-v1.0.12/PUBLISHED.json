@@ -1,0 +1,21 @@
+{
+  "release_tag": "android-tv-v1.0.12",
+  "published_at": "2026-10-22T04:19:54+00:00",
+  "github": "https://github.com/YuSheng-Jack/Entryway_Release/releases/tag/android-tv-v1.0.12",
+  "gitea": "https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-tv-v1.0.12",
+  "source_commit": "13ec76e83b74f6c8a9e4f8da531c538f79c1ba67",
+  "artifacts": [
+    {
+      "artifact": "Entryway-tv-release-1.0.12-arm64-v8a.apk",
+      "size": 56598329,
+      "sha256": "ecc9d69574bff1c052e399edc4f82a2460756ce7e7504daaeeac39520aae7d1f"
+    },
+    {
+      "artifact": "Entryway-tv-release-1.0.12-armeabi-v7a.apk",
+      "size": 50132073,
+      "sha256": "20bfc7f7a6425253d0ff62fbacabf968be863b5806029e45ab057ed2fcea8ed7"
+    }
+  ],
+  "verified": "Public downloads from Gitea and GitHub re-hashed; website entryway.top deployed and hashes matched.",
+  "superseded_attachments_note": "First upload at 2026-10-22T03:05Z was built from an incomplete main and was replaced while the release was a draft."
+}
