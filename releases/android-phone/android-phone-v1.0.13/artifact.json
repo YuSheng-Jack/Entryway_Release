@@ -1,0 +1,14 @@
+{
+  "schema_version": 2,
+  "platform": "android-phone",
+  "release_tag": "android-phone-v1.0.13",
+  "app_version": "1.0.13",
+  "build_number": 73,
+  "channel": "release",
+  "abi": "arm64-v8a",
+  "source_commit": "208e1c012d4bfacebfc48c6e6ebf0a4791061b9e",
+  "built_at": "2026-10-22T02:18:32.038962+00:00",
+  "artifact": "entryway-release-1.0.13-arm64-v8a.apk",
+  "size": 59397044,
+  "sha256": "0cd4878544b50f07098d95721a2811a017d21f1f8e77d57f0b50882c94029188"
+}

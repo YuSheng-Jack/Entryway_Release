@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "platform": "android-tv",
+  "release_tag": "android-tv-v1.0.12",
+  "app_version": "1.0.12",
+  "build_number": 56,
+  "channel": "release",
+  "abi": [
+    "arm64-v8a",
+    "armeabi-v7a"
+  ],
+  "source_commit": "208e1c012d4bfacebfc48c6e6ebf0a4791061b9e",
+  "built_at": "2026-10-22T02:18:32.075391+00:00",
+  "artifacts": [
+    {
+      "artifact": "Entryway-tv-release-1.0.12-arm64-v8a.apk",
+      "size": 56540857,
+      "sha256": "ad5672560e04f114795203bb41d355eb1b8ea7c6de9ec9c20f7519ce2487d9f0"
+    },
+    {
+      "artifact": "Entryway-tv-release-1.0.12-armeabi-v7a.apk",
+      "size": 50074592,
+      "sha256": "1fb728126e50d416e47f9a4f10a558d0b773e031165a3466ddd3802cbc0d78f3"
+    }
+  ]
+}
