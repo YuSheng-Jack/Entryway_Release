@@ -29,18 +29,18 @@
 
 | 安装包 | 大小 | SHA-256 |
 | --- | ---: | --- |
-| `entryway-release-1.0.13-arm64-v8a.apk` | 59,397,044 B | `0cd4878544b50f07098d95721a2811a017d21f1f8e77d57f0b50882c94029188` |
-| `Entryway-tv-release-1.0.12-arm64-v8a.apk` | 56,540,857 B | `ad5672560e04f114795203bb41d355eb1b8ea7c6de9ec9c20f7519ce2487d9f0` |
-| `Entryway-tv-release-1.0.12-armeabi-v7a.apk` | 50,074,592 B | `1fb728126e50d416e47f9a4f10a558d0b773e031165a3466ddd3802cbc0d78f3` |
+| `entryway-release-1.0.13-arm64-v8a.apk` | 59,617,395 B | `acb2cfce345bc6e40d1dc1a60bd2bc2eaa221aee9ef5580926421face86259a7` |
+| `Entryway-tv-release-1.0.12-arm64-v8a.apk` | 56,598,329 B | `ecc9d69574bff1c052e399edc4f82a2460756ce7e7504daaeeac39520aae7d1f` |
+| `Entryway-tv-release-1.0.12-armeabi-v7a.apk` | 50,132,073 B | `20bfc7f7a6425253d0ff62fbacabf968be863b5806029e45ab057ed2fcea8ed7` |
 
 - 安装包均为 Release 构建，使用正式密钥签名（证书 SHA-256 `a027e7a59bb3931250385e1ba44bd049a9dca9a855101e3263d617b3919b7bcc`）。
 - **TV 该下哪个包**：大多数电视、投影仪、盒子用 64 位包；安装时提示「解析错误」「与设备不兼容」的老设备，改用 32 位包。应用内更新会按已装的包自动选择。
 - **从 1.0 之前的 Preview 版升级**：签名不同，不能直接覆盖。请先在「设置 › 备份与恢复」备份到本地文件或 WebDAV，卸载旧版、安装新版后再恢复。已装 1.0.1 及以后版本的，在应用内检查更新即可。
 - 每个版本的更新内容见对应 Release 说明：[Gitea Releases](https://gitea.yamby.cn/yusheng/Entryway_Release/releases) ｜ [GitHub Releases](https://github.com/YuSheng-Jack/Entryway_Release/releases)。`RELEASE_NOTES.md` 仅保留 v0.24.0 及更早的合并发布记录。
 
-手机版 1.0.13：新增字幕在线搜索（Emby/Jellyfin、OpenSubtitles、射手网）、播放器内字幕位置与双指缩放、首次启动可跳过、服务器备注；修复投屏中断、飞牛续播、弹幕遮挡面板等反馈问题，SMB 播放提速。完整内容见[手机更新说明](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-phone-v1.0.13)。
+手机版 1.0.13：新增杜比视界硬件修正与 P5/P8 系统解码、字幕在线搜索、Hills/AfuseKt/Yamby/CapyPlayer 备份导入导出、多线路自动切换、自定义徽章包与首页组件；修复投屏中断、飞牛续播与分页、弹幕遮挡等大量反馈问题，SMB 播放提速，用户群迁移到 Telegram。完整内容见[手机更新说明](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-phone-v1.0.13)。
 
-TV 1.0.12：加入设备三档与资源预算（真机灰度数据仍在收集，可在设置中手动选档），mpv Dolby Vision P5/P8 交给系统解码；修复飞牛普通视频无画面、选集与字号缩放等问题，SMB 播放提速。完整内容见[TV 更新说明](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-tv-v1.0.12)。
+TV 1.0.12：加入设备三档与资源预算（真机灰度数据仍在收集，可在设置中手动选档）、杜比视界硬件修正与 P5/P8 系统解码、TMDB 聚合推荐首页、多线路自动切换；修复飞牛普通视频无画面、分页、选集与字号缩放等问题，SMB 播放提速。完整内容见[TV 更新说明](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-tv-v1.0.12)。
 
 手机版 1.0.12：修复 1.0.11 反复访问 Android Keystore 导致的卡顿，减少重复 TLS 校验和徽标计算；保持磁盘凭据加密，建议覆盖升级。TV 保持 1.0.10。
 

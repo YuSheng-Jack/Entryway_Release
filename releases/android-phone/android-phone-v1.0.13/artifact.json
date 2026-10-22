@@ -6,9 +6,9 @@
   "build_number": 73,
   "channel": "release",
   "abi": "arm64-v8a",
-  "source_commit": "208e1c012d4bfacebfc48c6e6ebf0a4791061b9e",
-  "built_at": "2026-10-22T02:18:32.038962+00:00",
+  "source_commit": "13ec76e83b74f6c8a9e4f8da531c538f79c1ba67",
+  "built_at": "2026-10-22T04:17:32.438172+00:00",
   "artifact": "entryway-release-1.0.13-arm64-v8a.apk",
-  "size": 59397044,
-  "sha256": "0cd4878544b50f07098d95721a2811a017d21f1f8e77d57f0b50882c94029188"
+  "size": 59617395,
+  "sha256": "acb2cfce345bc6e40d1dc1a60bd2bc2eaa221aee9ef5580926421face86259a7"
 }

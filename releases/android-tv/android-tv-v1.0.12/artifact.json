@@ -9,18 +9,18 @@
     "arm64-v8a",
     "armeabi-v7a"
   ],
-  "source_commit": "208e1c012d4bfacebfc48c6e6ebf0a4791061b9e",
-  "built_at": "2026-10-22T02:18:32.075391+00:00",
+  "source_commit": "13ec76e83b74f6c8a9e4f8da531c538f79c1ba67",
+  "built_at": "2026-10-22T04:17:32.616006+00:00",
   "artifacts": [
     {
       "artifact": "Entryway-tv-release-1.0.12-arm64-v8a.apk",
-      "size": 56540857,
-      "sha256": "ad5672560e04f114795203bb41d355eb1b8ea7c6de9ec9c20f7519ce2487d9f0"
+      "size": 56598329,
+      "sha256": "ecc9d69574bff1c052e399edc4f82a2460756ce7e7504daaeeac39520aae7d1f"
     },
     {
       "artifact": "Entryway-tv-release-1.0.12-armeabi-v7a.apk",
-      "size": 50074592,
-      "sha256": "1fb728126e50d416e47f9a4f10a558d0b773e031165a3466ddd3802cbc0d78f3"
+      "size": 50132073,
+      "sha256": "20bfc7f7a6425253d0ff62fbacabf968be863b5806029e45ab057ed2fcea8ed7"
     }
   ]
 }
