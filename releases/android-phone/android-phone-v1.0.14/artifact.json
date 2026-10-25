@@ -1,0 +1,14 @@
+{
+  "schema_version": 2,
+  "platform": "android-phone",
+  "release_tag": "android-phone-v1.0.14",
+  "app_version": "1.0.14",
+  "build_number": 74,
+  "channel": "release",
+  "abi": "arm64-v8a",
+  "source_commit": "703b98488ce35086a709cb4f62443a3adb5c01e2",
+  "built_at": "2026-10-25T03:50:50.759108+00:00",
+  "artifact": "entryway-release-1.0.14-arm64-v8a.apk",
+  "size": 59765275,
+  "sha256": "e53aa10a8b3501dac4e395f282125f0bf23858cfa98dac366f364274bbf5f602"
+}
