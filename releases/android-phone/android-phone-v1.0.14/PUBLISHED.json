@@ -1,0 +1,20 @@
+{
+ "release_tag": "android-phone-v1.0.14",
+ "published_at": "2026-10-25T04:28:26Z",
+ "github": "https://github.com/YuSheng-Jack/Entryway_Release/releases/tag/android-phone-v1.0.14",
+ "gitea": "https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-phone-v1.0.14",
+ "source_commit": "703b98488ce35086a709cb4f62443a3adb5c01e2",
+ "artifacts": [
+  {
+   "artifact": "entryway-release-1.0.14-arm64-v8a.apk",
+   "size": 59765275,
+   "sha256": "e53aa10a8b3501dac4e395f282125f0bf23858cfa98dac366f364274bbf5f602"
+  }
+ ],
+ "download_service": {
+  "primary": "https://download.entryway.top/android-phone-v1.0.14/",
+  "backup": "https://download-sh.entryway.top/android-phone-v1.0.14/",
+  "manifest": "/updates/android-phone.json"
+ },
+ "verified": "Public downloads from Gitea, GitHub, download.entryway.top and download-sh.entryway.top re-hashed; both update manifests matched the generated files; website www.entryway.top deployed and hashes matched."
+}
