@@ -1,0 +1,25 @@
+{
+ "release_tag": "android-tv-v1.0.14",
+ "published_at": "2026-10-30T02:23:18Z",
+ "github": "https://github.com/YuSheng-Jack/Entryway_Release/releases/tag/android-tv-v1.0.14",
+ "gitea": "https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-tv-v1.0.14",
+ "source_commit": "544d633b23aaef86001a361cedf5e7dd8f045a81",
+ "artifacts": [
+  {
+   "artifact": "Entryway-tv-release-1.0.14-arm64-v8a.apk",
+   "size": 56800883,
+   "sha256": "54ba05a11c06c14488d8a15be5df4d81ce9827b9a2eb35c3f6a1cc880a4acabd"
+  },
+  {
+   "artifact": "Entryway-tv-release-1.0.14-armeabi-v7a.apk",
+   "size": 50334630,
+   "sha256": "0900cab8e0f8dbc6fb2af155246cfdc4fa9eff0d3e8af92c75d040900f1f7abc"
+  }
+ ],
+ "download_service": {
+  "primary": "https://download.entryway.top/android-tv-v1.0.14/",
+  "backup": "https://download-sh.entryway.top/android-tv-v1.0.14/",
+  "manifest": "/updates/android-tv.json"
+ },
+ "verified": "Public downloads from Gitea, GitHub, download.entryway.top and download-sh.entryway.top re-hashed; both update manifests matched the generated files; website www.entryway.top deployed and hashes matched."
+}
