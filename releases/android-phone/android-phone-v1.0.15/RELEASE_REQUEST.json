@@ -1,0 +1,12 @@
+{
+  "schema_version": 2,
+  "platform": "android-phone",
+  "release_tag": "android-phone-v1.0.15",
+  "app_version": "1.0.15",
+  "build_number": 75,
+  "channel": "release",
+  "abi": "arm64-v8a",
+  "source_commit": "544d633b23aaef86001a361cedf5e7dd8f045a81",
+  "source_repository": "YuSheng-Jack/Entryway",
+  "source_branch": "main"
+}
