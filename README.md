@@ -42,6 +42,10 @@
 
 TV 1.0.15：高码率原始文件双连接下载、卡死自动恢复，首页提示新版本，详情页显示网站评分与获奖信息，剧集卡片显示可播集数；修复详情页卡在骨架屏、M31H 的 4K mpv 绿色竖条、飞牛背景图和文件页音频显示等问题。完整内容见[TV 更新说明](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-tv-v1.0.15)。
 
+手机版 1.0.15：媒体信息新增实时播放统计、1.75× 倍速、播放器内调整倍速与字幕样式、详情页与追剧日历联动、可隐藏上一集 / 下一集按钮、记忆播放亮度；CMS 点播源先过滤再分页、直播条目不再混入影视行，Jellyfin 官方片头片尾、跨服入库查询失败提示等反馈修复。完整内容见[手机更新说明](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-phone-v1.0.15)。
+
+TV 1.0.14：播放中加载在线 / 本地字幕、推荐详情可 MoviePilot 订阅、新增国漫 / 纪录片 / 儿童片片单；同地址多线路互不串用、缓冲按设备预算截断、Jellyfin 官方片头片尾、媒体库排序与首页同步、播放时钟常驻，旧系统可恢复加密备份。完整内容见[TV 更新说明](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-tv-v1.0.14)。
+
 手机版 1.0.14：推荐页无需 TMDB 密钥、推荐影片详情按天缓存秒开；新增中英双语字幕与原声音轨偏好、MoviePilot 订阅与追剧日历、继续观看标记已看、进度条缓冲显示、SubDL 字幕；Trakt 同步更准确，跨版本恢复备份，更新改走自有双云下载；修复连接卡住、网速跳动、DVB 字幕、飞牛统计等反馈问题。完整内容见[手机更新说明](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-phone-v1.0.14)。
 
 TV 1.0.13：推荐首页改版为独立“服务器”，无需 TMDB 密钥，推荐详情与服务器详情一致、可直接播放、按天缓存秒开；搜索提速，按设备能力优先选择流畅版本，卡顿时可切换到其他服务器的版本，弱 GPU 上杜比视界 P5 帧率提升；媒体库索引栏、手机配置入口合并、跨版本恢复备份，更新改走自有双云下载。完整内容见[TV 更新说明](https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-tv-v1.0.13)。
