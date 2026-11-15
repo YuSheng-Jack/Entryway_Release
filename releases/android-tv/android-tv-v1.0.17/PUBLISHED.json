@@ -1,0 +1,25 @@
+{
+ "release_tag": "android-tv-v1.0.17",
+ "published_at": "2026-11-15T04:03:54Z",
+ "github": "https://github.com/YuSheng-Jack/Entryway_Release/releases/tag/android-tv-v1.0.17",
+ "gitea": "https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-tv-v1.0.17",
+ "source_commit": "c9fb3a2a4019992666b40841d90e8ca4114a5d54",
+ "artifacts": [
+  {
+   "artifact": "Entryway-tv-release-1.0.17-arm64-v8a.apk",
+   "size": 57361398,
+   "sha256": "d811501957c670146d0349d9912f3c977ae8b8ef628161610bd17dc18887f3bc"
+  },
+  {
+   "artifact": "Entryway-tv-release-1.0.17-armeabi-v7a.apk",
+   "size": 50895150,
+   "sha256": "7ad1627bda8fbaa61e529f7bc1dd4e2aaaca990cfb0e761e4b983f19290dc376"
+  }
+ ],
+ "download_service": {
+  "primary": "https://download.entryway.top/android-tv-v1.0.17/",
+  "backup": "https://download-sh.entryway.top/android-tv-v1.0.17/",
+  "manifest": "/updates/android-tv.json"
+ },
+ "verified": "Public downloads from download.entryway.top and download-sh.entryway.top (Zhangjiakou) fully re-hashed; Gitea draft assets re-hashed over LAN and GitHub asset digests matched; both update manifests matched the generated files on both clouds; website deployed by the Deploy Entryway Website workflow and verified on www.entryway.top and www.yamby.cn."
+}
