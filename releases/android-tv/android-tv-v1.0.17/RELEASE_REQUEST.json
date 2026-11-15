@@ -1,0 +1,15 @@
+{
+  "schema_version": 2,
+  "platform": "android-tv",
+  "release_tag": "android-tv-v1.0.17",
+  "app_version": "1.0.17",
+  "build_number": 61,
+  "channel": "release",
+  "abi": [
+    "arm64-v8a",
+    "armeabi-v7a"
+  ],
+  "source_commit": "c9fb3a2a4019992666b40841d90e8ca4114a5d54",
+  "source_repository": "YuSheng-Jack/Entryway",
+  "source_branch": "main"
+}
