@@ -70,15 +70,17 @@ TV 1.0.12：加入设备三档与资源预算（真机灰度数据仍在收集�
 
 ## 交流群 | Community
 
-欢迎加入 QQ 用户群 **Entryway Buddys**（群号 **1107768156**）：反馈问题、交流服务器与播放设置，新版本的消息也会第一时间在群里发布。
+欢迎加入 Telegram 用户群 **Entryway Buddys**：反馈问题、交流服务器与播放设置，新版本的消息也会第一时间在群里发布。
 
-Join the **Entryway Buddys** QQ group (number **1107768156**) for feedback, tips and release news.
+Join the **Entryway Buddys** Telegram group for feedback, tips and release news.
 
 <p align="center">
-  <img src="community-qq.png" alt="QQ 群 Entryway Buddys 入群二维码" width="260">
+  <a href="https://t.me/+HijM8zx0Rbo2MDFl"><img src="community-telegram.png" alt="Telegram 用户群 Entryway Buddys 入群二维码" width="260"></a>
 </p>
 
-> 用 QQ「扫一扫」扫码，或在 QQ 里搜索群号加入。官网 [entryway.top](https://entryway.top/#community) 上也有同一张二维码；手机版、TV 版的「设置 › 关于 › QQ 交流群」里也能找到。
+> 用 Telegram 扫码，或直接打开链接 [t.me/+HijM8zx0Rbo2MDFl](https://t.me/+HijM8zx0Rbo2MDFl) 加入。官网 [entryway.top](https://entryway.top/#community) 上也有同一张二维码；手机版、TV 版的「设置 › 关于 › Telegram 交流群」里也能找到。
+>
+> Scan the code with Telegram or open [t.me/+HijM8zx0Rbo2MDFl](https://t.me/+HijM8zx0Rbo2MDFl). The same code is on [entryway.top](https://entryway.top/#community) and under Settings › About in both apps.
 
 ## 支持的媒体源 | Sources
 
@@ -109,7 +111,7 @@ Join the **Entryway Buddys** QQ group (number **1107768156**) for feedback, tips
 - **STRM 直链播放**：开着时网盘 .strm 片源直接播放链接本身，由网盘 302 到直链，不经服务器转码。
 - **点播合集**：TVBox 配置「全部添加」后合成一张卡片，每个站点是一个媒体库，一次搜遍所有站点；资源页可批量删除服务器，一键选中连不上的；可隐藏服务器里的媒体库，轮播和搜索推荐也不再出现（1.0.8 新增）。
 - **音乐**：专辑、艺人、歌单，迷你播放器与离线下载。
-- **更多**：弹幕、下载、Google Cast 与 DLNA 投屏、本地 / WebDAV 备份恢复（可勾选内容）、关于页的更新日志与 QQ 交流群、四种视觉效果、16 款 APP 图标、六种界面语言。
+- **更多**：弹幕、下载、Google Cast 与 DLNA 投屏、本地 / WebDAV 备份恢复（可勾选内容）、关于页的更新日志与 Telegram 交流群、四种视觉效果、16 款 APP 图标、六种界面语言。
 
 ### Android TV 1.0.10
 
