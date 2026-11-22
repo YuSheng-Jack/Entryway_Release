@@ -1,0 +1,20 @@
+{
+ "release_tag": "android-phone-v1.0.19",
+ "published_at": "2026-11-22T08:12:12Z",
+ "github": "https://github.com/YuSheng-Jack/Entryway_Release/releases/tag/android-phone-v1.0.19",
+ "gitea": "https://gitea.yamby.cn/yusheng/Entryway_Release/releases/tag/android-phone-v1.0.19",
+ "source_commit": "cf9b8b69cb375636a24f86e4b633e5237a20e769",
+ "artifacts": [
+  {
+   "artifact": "entryway-release-1.0.19-arm64-v8a.apk",
+   "size": 64820608,
+   "sha256": "a9d965ada29685d29c11005d961b710b7f3b202a6c40cbe4193891fc8179edc6"
+  }
+ ],
+ "download_service": {
+  "primary": "https://download.entryway.top/android-phone-v1.0.19/",
+  "backup": "https://download-sh.entryway.top/android-phone-v1.0.19/",
+  "manifest": "/updates/android-phone.json"
+ },
+ "verified": "Public downloads from download.entryway.top and download-sh.entryway.top (Zhangjiakou) fully re-hashed with 206 Range responses; Gitea draft assets re-hashed over LAN and GitHub asset digests matched; both update manifests matched the generated files on both clouds; website deployed by the Deploy Entryway Website workflow and verified on www.entryway.top and www.yamby.cn."
+}
